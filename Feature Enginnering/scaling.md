@@ -22,7 +22,7 @@ Normalization is a techinque of data representation of data. Which converts the 
 
 ### <mark style="color:red;">Types of Normalization scaling</mark>
 
-#### <mark style="color:orange;">1)MinMax Sacling :- In this scaling we use different types of col\_data of numeric form and x = x(i) - x(min)//x(max) - x(min).This  range lie  in the range of  0 to 1. x(i) means originally value of the given data</mark>
+#### <mark style="color:orange;">1)MinMax Scaling :- In this scaling we use different types of col\_data of numeric form and x = x(i) - x(min)//x(max) - x(min).This  range lie  in the range of  0 to 1. x(i) means originally value of the given data</mark>
 
 <mark style="color:orange;">2)Mean Normalization :- Formula used in this is x = x(i) - x(mean)//x(max) - x (mean)  gives range of -1 to 1.</mark>
 
